@@ -277,7 +277,7 @@ INSERT INTO public.services VALUES ('trim', 5);
 -- Name: appointments_appointment_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.appointments_appointment_id_seq', 173, true);
+SELECT pg_catalog.setval('public.appointments_appointment_id_seq', 197, true);
 
 
 --
@@ -298,7 +298,7 @@ SELECT pg_catalog.setval('public.appointments_service_id_seq', 1, false);
 -- Name: customers_customer_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.customers_customer_id_seq', 206, true);
+SELECT pg_catalog.setval('public.customers_customer_id_seq', 226, true);
 
 
 --
